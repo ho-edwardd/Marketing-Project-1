@@ -1,2 +1,1 @@
-# Marketing-Project-1
-Modeling the Number of Physician Visits and it’s Potential Correlation with Insurance Status in Elderly Individual’s
+Project 1 for Applied Probability Marketing course at UPenn (Wharton).
